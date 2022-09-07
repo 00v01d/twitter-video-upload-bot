@@ -1,0 +1,6 @@
+Install requirements.txt
+OPEN botmain.py and past your consumer keys amd your auth keys from the twitter developer dashboard.
+Change App permissions to read and write.
+Create a folder and put botmain.py in the folder.
+Start botmain.py
+As soon as you put a video named video.mp4 in the folder it will upload the video to your twitter account.
